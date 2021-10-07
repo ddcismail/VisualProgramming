@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\bin\Debug\SinirAsimi.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\bin\Debug\SinirAsimi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\bin\Debug\SinirAsimi.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SinirAsimi\SinirAsimi\obj\Debug\SinirAsimi.pdb
