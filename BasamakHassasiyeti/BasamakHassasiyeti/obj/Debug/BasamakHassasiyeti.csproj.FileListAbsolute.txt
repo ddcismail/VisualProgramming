@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.pdb
