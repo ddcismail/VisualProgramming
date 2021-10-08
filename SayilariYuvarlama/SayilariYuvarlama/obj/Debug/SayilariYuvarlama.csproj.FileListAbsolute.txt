@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\bin\Debug\SayilariYuvarlama.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\bin\Debug\SayilariYuvarlama.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\bin\Debug\SayilariYuvarlama.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariYuvarlama\SayilariYuvarlama\obj\Debug\SayilariYuvarlama.pdb
