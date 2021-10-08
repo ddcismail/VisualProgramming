@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\bin\Debug\SayilariBicimlendirme.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\bin\Debug\SayilariBicimlendirme.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\bin\Debug\SayilariBicimlendirme.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\SayilariBicimlendirme\SayilariBicimlendirme\obj\Debug\SayilariBicimlendirme.pdb
