@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\bin\Debug\HexaDecimalSayi.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\bin\Debug\HexaDecimalSayi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\bin\Debug\HexaDecimalSayi.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\HexaDecimalSayi\HexaDecimalSayi\obj\Debug\HexaDecimalSayi.pdb

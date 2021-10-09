@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaDecimalSayi", "HexaDecimalSayi\HexaDecimalSayi.csproj", "{27BEEF59-0B53-4D9B-8E09-1BF0D7F5868A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BEEF59-0B53-4D9B-8E09-1BF0D7F5868A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BEEF59-0B53-4D9B-8E09-1BF0D7F5868A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BEEF59-0B53-4D9B-8E09-1BF0D7F5868A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BEEF59-0B53-4D9B-8E09-1BF0D7F5868A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01C4335-E053-4B6B-B71C-638BCA108570}
+	EndGlobalSection
+EndGlobal
