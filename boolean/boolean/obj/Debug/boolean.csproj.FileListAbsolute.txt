@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\bin\Debug\boolean.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\bin\Debug\boolean.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\bin\Debug\boolean.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\boolean\boolean\obj\Debug\boolean.pdb
