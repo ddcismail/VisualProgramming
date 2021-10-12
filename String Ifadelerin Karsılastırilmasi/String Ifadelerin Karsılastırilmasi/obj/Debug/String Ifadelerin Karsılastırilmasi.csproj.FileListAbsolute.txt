@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\bin\Debug\String Ifadelerin Karsılastırilmasi.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\bin\Debug\String Ifadelerin Karsılastırilmasi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\bin\Debug\String Ifadelerin Karsılastırilmasi.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String Ifadelerin Karsılastırilmasi.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String_Ifadelerin_Karsılastırilmasi.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String_Ifadelerin_Karsılastırilmasi.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String Ifadelerin Karsılastırilmasi.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String Ifadelerin Karsılastırilmasi.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String Ifadelerin Karsılastırilmasi.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\String Ifadelerin Karsılastırilmasi\String Ifadelerin Karsılastırilmasi\obj\Debug\String Ifadelerin Karsılastırilmasi.pdb
