@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\bin\Debug\String.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\bin\Debug\String.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\bin\Debug\String.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\String\String\obj\Debug\String.pdb
