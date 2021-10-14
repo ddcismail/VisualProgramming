@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\bin\Debug\stringIfadeninParcalanması.exe.config
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\bin\Debug\stringIfadeninParcalanması.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\bin\Debug\stringIfadeninParcalanması.pdb
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.Form1.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.exe
+C:\Users\DEDEC\Desktop\VisualProgramming\stringIfadeninParcalanması\stringIfadeninParcalanması\obj\Debug\stringIfadeninParcalanması.pdb
