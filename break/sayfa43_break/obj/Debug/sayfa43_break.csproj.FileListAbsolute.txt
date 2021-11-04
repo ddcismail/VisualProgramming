@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\bin\Debug\sayfa43_break.exe.config
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\bin\Debug\sayfa43_break.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\bin\Debug\sayfa43_break.pdb
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.Form1.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa43_break\sayfa43_break\obj\Debug\sayfa43_break.pdb
