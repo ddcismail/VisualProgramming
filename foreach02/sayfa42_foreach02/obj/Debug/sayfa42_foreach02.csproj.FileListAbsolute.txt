@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\bin\Debug\sayfa42_foreach02.exe.config
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\bin\Debug\sayfa42_foreach02.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\bin\Debug\sayfa42_foreach02.pdb
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.Form1.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa42_foreach02\sayfa42_foreach02\obj\Debug\sayfa42_foreach02.pdb
