@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\bin\Debug\sayfa44_contine.exe.config
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\bin\Debug\sayfa44_contine.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\bin\Debug\sayfa44_contine.pdb
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.Form1.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa44_contine\sayfa44_contine\obj\Debug\sayfa44_contine.pdb
