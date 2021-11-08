@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\bin\Debug\sayfa48_BuyukBulma.exe.config
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\bin\Debug\sayfa48_BuyukBulma.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\bin\Debug\sayfa48_BuyukBulma.pdb
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.Form1.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.exe
+C:\Users\DEDEC\Desktop\İsmailDEDEç_192114053_ders2\sayfa48_BuyukBulma\sayfa48_BuyukBulma\obj\Debug\sayfa48_BuyukBulma.pdb
