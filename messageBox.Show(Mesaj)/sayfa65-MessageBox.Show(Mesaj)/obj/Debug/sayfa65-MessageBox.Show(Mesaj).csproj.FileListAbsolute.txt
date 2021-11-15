@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\bin\Debug\sayfa65-MessageBox.Show(Mesaj).exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\bin\Debug\sayfa65-MessageBox.Show(Mesaj).exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\bin\Debug\sayfa65-MessageBox.Show(Mesaj).pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65_MessageBox.Show_Mesaj_.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65_MessageBox.Show_Mesaj_.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65-MessageBox.Show(Mesaj).csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65-MessageBox.Show(Mesaj).csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65-MessageBox.Show(Mesaj).exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa65-MessageBox.Show(Mesaj)\sayfa65-MessageBox.Show(Mesaj)\obj\Debug\sayfa65-MessageBox.Show(Mesaj).pdb
