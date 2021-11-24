@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\bin\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\bin\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\bin\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66_MessageBox.Show_M__B__D__S__V_D_.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66_MessageBox.Show_M__B__D__S__V_D_.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa66-MessageBox.Show(M- B- D- S- V-D)\sayfa66-MessageBox.Show(M- B- D- S- V-D)\obj\Debug\sayfa66-MessageBox.Show(M- B- D- S- V-D).pdb
