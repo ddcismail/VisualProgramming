@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\bin\Debug\sayfa69-ınputBox2.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\bin\Debug\sayfa69-ınputBox2.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\bin\Debug\sayfa69-ınputBox2.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69-ınputBox2.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69_ınputBox2.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69_ınputBox2.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69-ınputBox2.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69-ınputBox2.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69-ınputBox2.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa69-ınputBox2\sayfa69-ınputBox2\obj\Debug\sayfa69-ınputBox2.pdb
