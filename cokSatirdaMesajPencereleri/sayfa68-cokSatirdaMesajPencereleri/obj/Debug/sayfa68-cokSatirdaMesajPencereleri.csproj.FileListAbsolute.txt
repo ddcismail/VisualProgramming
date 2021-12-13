@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\bin\Debug\sayfa68-cokSatirdaMesajPencereleri.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\bin\Debug\sayfa68-cokSatirdaMesajPencereleri.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\bin\Debug\sayfa68-cokSatirdaMesajPencereleri.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68_cokSatirdaMesajPencereleri.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68_cokSatirdaMesajPencereleri.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68-cokSatirdaMesajPencereleri.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68-cokSatirdaMesajPencereleri.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68-cokSatirdaMesajPencereleri.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa68-cokSatirdaMesajPencereleri\sayfa68-cokSatirdaMesajPencereleri\obj\Debug\sayfa68-cokSatirdaMesajPencereleri.pdb
