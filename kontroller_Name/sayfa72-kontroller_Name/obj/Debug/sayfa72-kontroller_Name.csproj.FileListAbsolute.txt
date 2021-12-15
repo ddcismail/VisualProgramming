@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\bin\Debug\sayfa72-kontroller_Name.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\bin\Debug\sayfa72-kontroller_Name.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\bin\Debug\sayfa72-kontroller_Name.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72-kontroller_Name.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72_kontroller_Name.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72_kontroller_Name.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72-kontroller_Name.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72-kontroller_Name.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72-kontroller_Name.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-kontroller_Name\sayfa72-kontroller_Name\obj\Debug\sayfa72-kontroller_Name.pdb
