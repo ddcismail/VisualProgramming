@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\bin\Debug\sayfa72-enable.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\bin\Debug\sayfa72-enable.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\bin\Debug\sayfa72-enable.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72_enable.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72_enable.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72-enable.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72-enable.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72-enable.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa72-enable\sayfa72-enable\obj\Debug\sayfa72-enable.pdb
