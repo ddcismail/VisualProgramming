@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\bin\Debug\sayfa83-koordinant_Boyut5.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\bin\Debug\sayfa83-koordinant_Boyut5.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\bin\Debug\sayfa83-koordinant_Boyut5.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83-koordinant_Boyut5.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83_koordinant_Boyut5.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83_koordinant_Boyut5.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83-koordinant_Boyut5.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83-koordinant_Boyut5.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83-koordinant_Boyut5.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa83-koordinant_Boyut5\sayfa83-koordinant_Boyut5\obj\Debug\sayfa83-koordinant_Boyut5.pdb
