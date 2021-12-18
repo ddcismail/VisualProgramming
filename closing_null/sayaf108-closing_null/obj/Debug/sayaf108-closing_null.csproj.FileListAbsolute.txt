@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108-closing_null.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108_closing_null.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108_closing_null.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108-closing_null.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108-closing_null.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\bin\Debug\sayaf108-closing_null.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\bin\Debug\sayaf108-closing_null.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\bin\Debug\sayaf108-closing_null.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108-closing_null.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayaf108-closing_null\sayaf108-closing_null\obj\Debug\sayaf108-closing_null.pdb
