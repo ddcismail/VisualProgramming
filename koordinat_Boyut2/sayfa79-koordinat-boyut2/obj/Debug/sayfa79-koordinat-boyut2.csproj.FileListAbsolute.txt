@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\bin\Debug\sayfa79-koordinat-boyut2.exe.config
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\bin\Debug\sayfa79-koordinat-boyut2.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\bin\Debug\sayfa79-koordinat-boyut2.pdb
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79_koordinat_boyut2.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79_koordinat_boyut2.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79-koordinat-boyut2.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79-koordinat-boyut2.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79-koordinat-boyut2.exe
+C:\Users\DEDEC\Desktop\192114053_ismail dedec_\sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2\obj\Debug\sayfa79-koordinat-boyut2.pdb

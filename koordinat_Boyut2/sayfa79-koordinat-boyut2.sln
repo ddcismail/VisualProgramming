@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa79-koordinat-boyut2", "sayfa79-koordinat-boyut2\sayfa79-koordinat-boyut2.csproj", "{54ED9440-C5BD-4659-979B-87826C445D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54ED9440-C5BD-4659-979B-87826C445D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ED9440-C5BD-4659-979B-87826C445D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ED9440-C5BD-4659-979B-87826C445D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ED9440-C5BD-4659-979B-87826C445D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A21D597B-5DC5-40B6-9C03-43D881CEB02E}
+	EndGlobalSection
+EndGlobal
