@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\bin\Debug\sayfa104-menuStrip.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\bin\Debug\sayfa104-menuStrip.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\bin\Debug\sayfa104-menuStrip.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104_menuStrip.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104_menuStrip.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104-menuStrip.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104-menuStrip.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104-menuStrip.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa104-menuStrip\sayfa104-menuStrip\obj\Debug\sayfa104-menuStrip.pdb
