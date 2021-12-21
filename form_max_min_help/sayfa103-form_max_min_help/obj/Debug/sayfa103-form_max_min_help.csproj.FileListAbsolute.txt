@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\bin\Debug\sayfa103-form_max_min_help.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\bin\Debug\sayfa103-form_max_min_help.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\bin\Debug\sayfa103-form_max_min_help.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103_form_max_min_help.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103_form_max_min_help.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103-form_max_min_help.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103-form_max_min_help.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103-form_max_min_help.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa103-form_max_min_help\sayfa103-form_max_min_help\obj\Debug\sayfa103-form_max_min_help.pdb
