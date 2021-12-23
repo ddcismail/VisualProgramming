@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\bin\Debug\sayfa112-acilis_Formu.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\bin\Debug\sayfa112-acilis_Formu.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\bin\Debug\sayfa112-acilis_Formu.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112_acilis_Formu.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112_acilis_Formu.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112-acilis_Formu.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112-acilis_Formu.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112-acilis_Formu.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa112-acilis_Formu\sayfa112-acilis_Formu\obj\Debug\sayfa112-acilis_Formu.pdb
