@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\bin\Debug\sayfa108-ısDisposed.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\bin\Debug\sayfa108-ısDisposed.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\bin\Debug\sayfa108-ısDisposed.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108_ısDisposed.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108_ısDisposed.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108-ısDisposed.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108-ısDisposed.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108-ısDisposed.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa108-ısDisposed\sayfa108-ısDisposed\obj\Debug\sayfa108-ısDisposed.pdb
