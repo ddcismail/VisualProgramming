@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\bin\Debug\sayfa111-textBox1_modifiers.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\bin\Debug\sayfa111-textBox1_modifiers.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\bin\Debug\sayfa111-textBox1_modifiers.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111_textBox1_modifiers.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111_textBox1_modifiers.Form2.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111_textBox1_modifiers.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111-textBox1_modifiers.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111-textBox1_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111-textBox1_modifiers.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa111-textBox1_modifiers\sayfa111-textBox1_modifiers\obj\Debug\sayfa111-textBox1_modifiers.pdb
