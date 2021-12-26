@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\bin\Debug\sayfa115-forma_Sekil_Verme_Yontem2.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\bin\Debug\sayfa115-forma_Sekil_Verme_Yontem2.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\bin\Debug\sayfa115-forma_Sekil_Verme_Yontem2.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115-forma_Sekil_Verme_Yontem2.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115_forma_Sekil_Verme_Yontem2.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115_forma_Sekil_Verme_Yontem2.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115-forma_Sekil_Verme_Yontem2.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115-forma_Sekil_Verme_Yontem2.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115-forma_Sekil_Verme_Yontem2.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa115-forma_Sekil_Verme_Yontem2\sayfa115-forma_Sekil_Verme_Yontem2\obj\Debug\sayfa115-forma_Sekil_Verme_Yontem2.pdb
