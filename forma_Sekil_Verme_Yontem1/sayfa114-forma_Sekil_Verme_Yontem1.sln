@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa114-forma_Sekil_Verme_Yontem1", "sayfa114-forma_Sekil_Verme_Yontem1\sayfa114-forma_Sekil_Verme_Yontem1.csproj", "{871BBA56-CB58-403B-82F4-6BAF817ABC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871BBA56-CB58-403B-82F4-6BAF817ABC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871BBA56-CB58-403B-82F4-6BAF817ABC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871BBA56-CB58-403B-82F4-6BAF817ABC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871BBA56-CB58-403B-82F4-6BAF817ABC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65D75F4-D02F-47EB-8761-078F5A51E855}
+	EndGlobalSection
+EndGlobal
