@@ -1,0 +1,12 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\bin\Debug\sayfa117-MDI_Formlar02.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\bin\Debug\sayfa117-MDI_Formlar02.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\bin\Debug\sayfa117-MDI_Formlar02.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117-MDI_Formlar02.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.Form2.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.MDIParent1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117_MDI_Formlar02.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117-MDI_Formlar02.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117-MDI_Formlar02.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117-MDI_Formlar02.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa117-MDI_Formlar02\sayfa117-MDI_Formlar02\obj\Debug\sayfa117-MDI_Formlar02.pdb
