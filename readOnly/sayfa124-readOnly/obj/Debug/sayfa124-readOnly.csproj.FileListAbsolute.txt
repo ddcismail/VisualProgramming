@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\bin\Debug\sayfa124-readOnly.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\bin\Debug\sayfa124-readOnly.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\bin\Debug\sayfa124-readOnly.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124_readOnly.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124_readOnly.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124-readOnly.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124-readOnly.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124-readOnly.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail DEDEÇ\sayfa124-readOnly\sayfa124-readOnly\obj\Debug\sayfa124-readOnly.pdb
