@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\bin\Debug\sayfa145-Itmes_Insert.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\bin\Debug\sayfa145-Itmes_Insert.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\bin\Debug\sayfa145-Itmes_Insert.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145_Itmes_Insert.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145_Itmes_Insert.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145-Itmes_Insert.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145-Itmes_Insert.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145-Itmes_Insert.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Itmes_Insert\sayfa145-Itmes_Insert\obj\Debug\sayfa145-Itmes_Insert.pdb
