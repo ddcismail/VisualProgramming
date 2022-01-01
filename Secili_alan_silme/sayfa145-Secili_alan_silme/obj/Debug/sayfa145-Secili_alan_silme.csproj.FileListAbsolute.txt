@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\bin\Debug\sayfa145-Secili_alan_silme.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\bin\Debug\sayfa145-Secili_alan_silme.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\bin\Debug\sayfa145-Secili_alan_silme.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145_Secili_alan_silme.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145_Secili_alan_silme.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145-Secili_alan_silme.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145-Secili_alan_silme.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145-Secili_alan_silme.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa145-Secili_alan_silme\sayfa145-Secili_alan_silme\obj\Debug\sayfa145-Secili_alan_silme.pdb
