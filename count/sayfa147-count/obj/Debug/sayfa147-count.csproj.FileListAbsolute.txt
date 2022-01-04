@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\bin\Debug\sayfa147-count.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\bin\Debug\sayfa147-count.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\bin\Debug\sayfa147-count.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147_count.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147_count.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147-count.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147-count.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147-count.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa147-count\sayfa147-count\obj\Debug\sayfa147-count.pdb
