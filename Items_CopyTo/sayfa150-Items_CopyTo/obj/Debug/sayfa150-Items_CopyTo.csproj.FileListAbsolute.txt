@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\bin\Debug\sayfa150-Items_CopyTo.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\bin\Debug\sayfa150-Items_CopyTo.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\bin\Debug\sayfa150-Items_CopyTo.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150_Items_CopyTo.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150_Items_CopyTo.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150-Items_CopyTo.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150-Items_CopyTo.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150-Items_CopyTo.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa150-Items_CopyTo\sayfa150-Items_CopyTo\obj\Debug\sayfa150-Items_CopyTo.pdb
