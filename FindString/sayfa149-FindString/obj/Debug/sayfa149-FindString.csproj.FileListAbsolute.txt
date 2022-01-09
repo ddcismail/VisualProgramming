@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\bin\Debug\sayfa149-FindString.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\bin\Debug\sayfa149-FindString.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\bin\Debug\sayfa149-FindString.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149-FindString.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149_FindString.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149_FindString.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149-FindString.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149-FindString.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149-FindString.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa149-FindString\sayfa149-FindString\obj\Debug\sayfa149-FindString.pdb
