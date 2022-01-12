@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\bin\Debug\sayfa155-fingStringExact02.exe.config
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\bin\Debug\sayfa155-fingStringExact02.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\bin\Debug\sayfa155-fingStringExact02.pdb
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155_fingStringExact02.Form1.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155_fingStringExact02.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155-fingStringExact02.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155-fingStringExact02.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155-fingStringExact02.exe
+C:\Users\DEDEC\Desktop\192114053_İsmail_dedeç\sayfa155-fingStringExact02\sayfa155-fingStringExact02\obj\Debug\sayfa155-fingStringExact02.pdb
