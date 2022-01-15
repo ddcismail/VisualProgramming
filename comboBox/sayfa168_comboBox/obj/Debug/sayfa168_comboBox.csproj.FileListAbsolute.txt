@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\bin\Debug\sayfa168_comboBox.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\bin\Debug\sayfa168_comboBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\bin\Debug\sayfa168_comboBox.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa168_comboBox\sayfa168_comboBox\obj\Debug\sayfa168_comboBox.pdb
