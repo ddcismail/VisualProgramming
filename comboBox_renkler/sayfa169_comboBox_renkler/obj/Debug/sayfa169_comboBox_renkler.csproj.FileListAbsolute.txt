@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\bin\Debug\sayfa169_comboBox_renkler.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\bin\Debug\sayfa169_comboBox_renkler.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\bin\Debug\sayfa169_comboBox_renkler.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa169_comboBox_renkler\sayfa169_comboBox_renkler\obj\Debug\sayfa169_comboBox_renkler.pdb
