@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayfa172_comboBox_cok_sayida_bilgi", "sayfa172_comboBox_cok_sayida_bilgi\sayfa172_comboBox_cok_sayida_bilgi.csproj", "{E19E9B17-8325-4567-89A4-4BDF2C1A07BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19E9B17-8325-4567-89A4-4BDF2C1A07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19E9B17-8325-4567-89A4-4BDF2C1A07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19E9B17-8325-4567-89A4-4BDF2C1A07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19E9B17-8325-4567-89A4-4BDF2C1A07BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B0AED6-F15A-411D-8248-0E82EC743C2B}
+	EndGlobalSection
+EndGlobal
