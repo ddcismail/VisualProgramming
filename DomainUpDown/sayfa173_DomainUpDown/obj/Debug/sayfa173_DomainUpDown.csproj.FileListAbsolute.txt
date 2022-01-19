@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\bin\Debug\sayfa173_DomainUpDown.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\bin\Debug\sayfa173_DomainUpDown.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\bin\Debug\sayfa173_DomainUpDown.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_DomainUpDown\sayfa173_DomainUpDown\obj\Debug\sayfa173_DomainUpDown.pdb
