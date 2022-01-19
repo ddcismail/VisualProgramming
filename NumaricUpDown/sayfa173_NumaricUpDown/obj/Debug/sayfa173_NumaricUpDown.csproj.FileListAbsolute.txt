@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\bin\Debug\sayfa173_NumaricUpDown.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\bin\Debug\sayfa173_NumaricUpDown.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\bin\Debug\sayfa173_NumaricUpDown.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa173_NumaricUpDown\sayfa173_NumaricUpDown\obj\Debug\sayfa173_NumaricUpDown.pdb
