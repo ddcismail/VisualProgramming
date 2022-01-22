@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\bin\Debug\sayfa174_TrackBar.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\bin\Debug\sayfa174_TrackBar.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\bin\Debug\sayfa174_TrackBar.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa174_TrackBar\sayfa174_TrackBar\obj\Debug\sayfa174_TrackBar.pdb
