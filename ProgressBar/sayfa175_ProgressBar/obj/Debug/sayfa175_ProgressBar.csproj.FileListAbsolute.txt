@@ -1,0 +1,9 @@
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\bin\Debug\sayfa175_ProgressBar.exe.config
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\bin\Debug\sayfa175_ProgressBar.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\bin\Debug\sayfa175_ProgressBar.pdb
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.Form1.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.exe
+C:\Users\DEDEC\Desktop\192113025_İhsan_Dedeç\sayfa175_ProgressBar\sayfa175_ProgressBar\obj\Debug\sayfa175_ProgressBar.pdb
